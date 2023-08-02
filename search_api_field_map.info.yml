@@ -2,7 +2,7 @@ name: Search API Field Map
 type: module
 description: Allows indexing multiple Drupal sites into a single search index by field.
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 package: Search
 dependencies:
   - search_api:search_api
